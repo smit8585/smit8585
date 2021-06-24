@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Smitkumar Bhatesara
-- 👀 I’m interested in solving modern world problems through best technologies, such as Artificial Intelligence.
+- 👀 I’m interested in solving modern world problems through best technologies, such as Data Science And Artificial Intelligence.
 - 🌱 I’m currently learning machine learning modelling and nueral networks.
 - 💞️ I’m looking to collaborate on projects that use machine learning techniques, to put my knowledge on work.
 - 📫 How to reach me:
