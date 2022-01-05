@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning machine learning modelling and nueral networks.
 - 💞️ I’m looking to collaborate on projects that use machine learning techniques, to put my knowledge on work.
 - 📫 How to reach me:
-    1)Twitter - @smit8585
-    2)Facebook - 
-    3)LinkedIn - 
+    1)Twitter - @smit8585 
+    3)LinkedIn - https://www.linkedin.com/in/smitkumar-bhatesara
 
 <!---
 smit8585/smit8585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
