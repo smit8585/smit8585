@@ -5,7 +5,7 @@
 
     1)Twitter - https://twitter.com/smit8585
     
-    3)LinkedIn - https://www.linkedin.com/in/smitkumar-bhatesara
+    2)LinkedIn - https://www.linkedin.com/in/smitkumar-bhatesara
 
 <!---
 smit8585/smit8585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
