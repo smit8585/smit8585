@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Smitkumar Bhatesara
-- 👀 I’m interested in solving modern world problems through best technologies, such as Data Science And Artificial Intelligence.
-- 🌱 I’m currently learning machine learning modelling and nueral networks.
-- 💞️ I’m looking to collaborate on projects that use machine learning techniques, to put my knowledge on work.
-- 📫 How to reach me:
-    1)Twitter - @smit8585 
+- 👋 Hi, I’m Smitkumar Bhatesara (aka Smit Btsr / Smit Patel)
+- 👀 I’m interested in Databases, DevOps, Machine Learning, and finance. 
+- 💞️ I’m looking to collaborate on projects that are challenging to improve my skills.
+- 📫 How to reach out to me:
+
+    1)Twitter - https://twitter.com/smit8585
+    
     3)LinkedIn - https://www.linkedin.com/in/smitkumar-bhatesara
 
 <!---
