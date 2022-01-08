@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Smitkumar Bhatesara (aka Smit Btsr / Smit Patel)
-- 👀 I’m interested in Databases, DevOps, Machine Learning, and finance. 
+- 👀 I’m interested in Databases, DevOps, cloud, Machine Learning, and finance. 
 - 💞️ I’m looking to collaborate on projects that are challenging to improve my skills.
 - 📫 How to reach out to me:
 
